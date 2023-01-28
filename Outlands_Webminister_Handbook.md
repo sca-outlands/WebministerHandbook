@@ -1,9 +1,55 @@
-# Outlands Webminister’s Handbook
+# Addendum to the Society for Creative Anachronism Webminister Handbook, for the Kingdom of the Outlands
 
-## Office of the Webminister
+## 1 Executive Summary
+This document provides additional information and context for the Kingdom of the Outlands (Outlands), as an extention of the Society for Creative Anachronism's (Society or SCA, Inc.) Webministers' Handbook, available at https://sca-soc-web.gitlab.io/handbook.pdf
 
-## Kingdom Webminister
-The Kingdom Webminister is responsible for maintaining the Kingdom web site, determining web
+This addendum adds context and additional expectations for the Kingdom of the Outlands. 
+
+## 2 Office of the Webminister
+### 2.1 Structure of the Office
+The Office of the Webminister reports to the Society Office of the Webminister and the Outlands Kingdom Chronicler. It comprises the Kingdom Webwright, associated kingdom and special project deputies, and branch webministers. 
+
+#### 2.1.1 Kingdom Webwright
+
+The Kingdom Webwright serves as the liason between kingdom officers, the populace, and the Office of the Webminister. They are responsible for overseeing management of all official web properties of the Outlands and local groups. 
+
+
+Botwryght, Whelwryght, Waynwryght, Playwryght, Millwryght, Plowwryght
+
+
+#### 2.1.2 Northern Groups Deputy (
+Addresses concerns from branches X,Y,Z
+Ideally also a branch webminister
+
+#### 2.1.3 Southern Groups Deputy (
+Addresses concerns from branch X,Y,Z
+Ideally also a branch webminister
+
+#### 2.1.4 Deputy for Outlands.org
+Manages content requests for Outlands.org
+
+#### 2.1.5 Deputy for the Calendar
+Manages kingdom calendar and planning calendar
+
+#### 2.1.6 Deputy for the Marshallate
+Manages Stag's App
+
+#### 2.1.7 Deputy for the Arts & Sciences Ministry
+Manages moas.outlands.org
+
+#### 2.1.8 Deputy for the Outlands College of Heralds
+Manages outlandsheralds.org
+
+#### 2.1.9 Deputy for the Royal Outlands Interkingdom University
+Manages roiu.outlands.org
+
+#### 2.1.10 Emergency Deputy
+Backup to the kwm, if needed
+
+
+
+
+is responsible for maintaining the Kingdom web site, determining web
 policy for the kingdom, and working with Local Webministers to insure pages are accurate and
 appropriate for the SCA. The Kingdom Webminister is charged with ensuring that the information
 is updated in a timely manner (to be defined as no greater than 72 hours from content receipt)
@@ -19,14 +65,33 @@ application developed for the Kingdom site, it is the duty of the Kingdom Webmin
 there is enough in-line documentation to ensure future Webministers are able to maintain the
 code. The Kingdom Webminister reports to the Kingdom Chronicler and the Society Webminister.
 
-### Deputy Webministers
+#### Deputy Webministers
 The Kingdom Webminister may designate deputies as needed to help maintain a clean and
 accurate web presence for the Kingdom.
 
 ### Group Webminister
 The designated Webminister for a local group, and in the event that a group has several web sites, the Seneschal of the group will determine what web site is the official one for their group. It is recommended, in order to save money, to request and use space on the Kingdom server.
 
-## Structure of the Outlands Web Presence
+## 3 Technology Responsibility
+### 3.1 Outlands.org
+#### 3.1.1 Goals and Directives
+#### 3.1.2 Officers
+#### 3.1.3 Calendar
+#### 3.1.4 Branch Contact
+#### 3.1.5 Library
+
+
+
+### 3.2 Accounts and Services
+#### 3.2.1 Google for Nonprofits
+#### 3.2.2 Hosting Services
+#### 3.2.3 Communications
+
+### 3.3 Award Recommendation Service
+###
+
+
+
 ### Kingdom Web Content
 The Kingdom Webminister (or an appointed deputy) is responsible for maintaining the following mandatory information on the Kingdom web site or see that this information is part of an officer's web site:
 * An accurate electronic version of the Kingdom Calendar.
@@ -126,26 +191,11 @@ about the SCA.
 which promote the SCA.
 6) Inappropriate use of copyrighted material.
 
-**_To meet of keep certification, all pages must be formatted correctly:_**
-1) No use of Frames, no exceptions.
-2) No more than 6 columns in a table
-3) If at all avoidable, no tables within tables.
-4) Navigation links on the left side or top of page
-5) All Navigation in the same place throughout the entire site.
+
 6) Banner or text at the top of the page indicating the group, or sub entity of the group
 7) A Title indicating the group and, if appropriate, the sub area of the group currently being
 viewed. Breadcrumbs are acceptable.
-8) High contrast text / background (no yellow on green!)
-9) Only a discreet piece of information on one page (ie, don’t lump all of your information on
-one page) The information on one page should be readable with a minimal amount of
-vertical scrolling.
-10) No blinking text
-11) Minimal graphics (thumbnails to full sized photo’s are encouraged with the appropriately
-signed authorization to use the photograph on file)
-12) No scrolling text
-13) No animated images
-Formatted: Bullets and Numbering
-Formatted: Bullets and Numbering
+
 
 ## Outlands Disclaimer
 The Outlands disclaimer must be on the main page or linked to the main page of every certified
