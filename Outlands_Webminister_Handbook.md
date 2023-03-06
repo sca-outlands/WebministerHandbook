@@ -5,71 +5,156 @@ This document provides additional information and context for the Kingdom of the
 
 This addendum adds context and additional expectations for the Kingdom of the Outlands, including the structure of the Office of Webministry, 
 
-## 2 Office of Webministry
-### 2.1 Structure of the Office
-The Office of the Webminister reports to the Society Office of Webminister and to the Kingdom Seneschal. It comprises the Kingdom Webwright, associated kingdom and special project deputies, and branch webministers. 
+## 2 Responsibilities
+### 2.1 Official Websites
+#### 2.1.1 Goals and Directives
+The primary purpose of the kingdom website is to encourage and facilitate participation in activities throughout the kingdom. The site shall function as the online face of the kingdom for all functions not ascribed to other offices. 
+#### 2.1.2 Offices
+The kingdom website shall maintain a list of kingdom offices and the holders and deputies of those offices, including contact information. For the purposes of this document, kingdom royalty is considered an office. Each office is responsible for providing content relevant to that office. 
+#### 2.1.3 Calendar
+The kingdom website shall maintain both an approved event calendar and an event planning calendar. 
+#### 2.1.4 Branch Contact
+The kingdom website shall maintain a list of active branches, their useful modern geographic areas, and contact information relevant for the branch. If the branch has a recodgnized website, it should also be included.
+#### 2.1.5 Library
+The kingdom website shall maintain a library of current governing documents and addendums. Content for the library is the responsibility of the associated office.
 
-#### 2.1.1 Kingdom Webwryght
+### 2.2 Other Internet Infrastructure
 
-The Kingdom Webwryght serves as the liason between kingdom officers, the populace, and the Office of the Webminister. They are responsible for overseeing management of all official web properties of the Outlands and local groups. 
+### 2.3 Organizational
+
+### 2.4 Limits of Responsibility
+
+### 2.5 Online Privacy and Data Policies
+
+### 2.6 Release Forms for Personal Information, Photographs, and Other Creative Works
+
+### 2.7 Avoid Taking Sides in Disputes
 
 
-#### 2.1.2 Northern Groups Deputy (Waynwryght)
+## 3 Chain of Command
+### 3.1 Office Hierarchy
+#### 3.1.1 Structure of the Office of Web Ministry
+The Office of Web Ministry reports to the Society Office of Webminister and to the Kingdom Seneschal. It comprises the Kingdom Webwright, associated kingdom and special project deputies, and branch webministers. 
+
+##### Kingdom Webminister (Webwryght)
+The Kingdom Webminister serves as the liason between kingdom officers, the populace, and the Office of Web Ministry. They are responsible for overseeing management of all official web properties of the Outlands and local groups. 
+
+##### Northern Groups Deputy (Waynwryght)
 Addresses concerns from branches X,Y,Z
 Ideally also a branch webminister
 
-#### 2.1.3 Southern Groups Deputy (Plowwryght)
+##### Southern Groups Deputy (Plowwryght)
 Addresses concerns from branch X,Y,Z
 Ideally also a branch webminister
 
-#### 2.1.4 Deputy for Outlands.org (Botwryght)
+##### Deputy for Outlands.org (Botwryght)
 Manages content requests for Outlands.org
 
-The Kingdom Webminister is ultimately responsible for all web content which pertains to the
-Kingdom of the Outlands
+The Kingdom Webminister is ultimately responsible for all web content which pertains to the Kingdom of the Outlands.
 
-#### 2.1.5 Deputy for the Calendar (Whelwryght)
+##### Deputy for the Calendar (Whelwryght)
 Manages kingdom calendar and planning calendar in coordination with the Office of the Seneschal and the Office of the Chronicler
 
-#### 2.1.6 Deputy for the Marshallate
+##### Deputy for the Marshallate
 Manages Stag's App
 
-#### 2.1.7 Deputy for the Arts & Sciences Ministry 
+##### Deputy for the Arts & Sciences Ministry 
 Manages moas.outlands.org
 
-#### 2.1.8 Deputy for the Outlands College of Heralds
+##### Deputy for the Outlands College of Heralds
 Manages outlandsheralds.org
 
-#### 2.1.9 Deputy for the Royal Outlands Interkingdom University
+##### Deputy for the Royal Outlands Interkingdom University
 Manages roiu.outlands.org
 
-#### 2.1.10 Emergency Deputy
+##### Emergency Deputy
 Backup to the kwm, if needed
 
-### 2.2 Warranting
+
+
+## 3 Officer Requirements
+### 3.1 Requirements for All Webministers
+
+### 3.2 Kingdom Webministers
+
+### 3.3 Branch Webministers
+
+
+
+
+## 4 Reporting and Warranting
+### 4.1 Reporting Requirements
+No addendums
+
+### 4.2 Communication with the Society Webminister
+No addendums
+
+### 4.3 Transfer of Office
+#### 4.3.3 Self-nomination and Approval
+Candidates for Kingdom Webminister shall have served as either a baronial webminister of an Outlands branch or as a Kingdom Webminister.
+
+## 5 Infrastructure
+### 5.1 Hosting Requirements
+### 5.2 Domain Names
+
+
+## 6 Website Construction
+### 6.1 Official Websites, definition
+### 6.2 All Official Websites
+### 6.3 Accessibility Guidelines
+### 6.4 Referencing Society Policies
+### 6.5 Personal Information, Photographs, and Creative Works
+### 6.6 Copyright Statement and Disclaimers
+
+
+## 7 Additional Considerations for the Kingdom of the Outlands
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### 3.2.1 Transparency and Redundancy
+Webwryght and Seneschal must have admin access for all official service providers, properties, etc. - INCLUDING separate branch properties and services.
+Branch seneschal must have admin access to all properties and service providers.
+Documentation for all properties and services providers provided to Office of Webministry
+#### 3.2.2 Kingdom Accounts
+All official accounts and services shall be registered to a recognized kindgom user, not an individual. The kingdom Seneschal and the kingdom Webwright, as well as appropriate appointed deputies, shall have access to all official accounts and services. If any account incurs a financial requirement, the kingdom Exchequer and any appropriate deputy shall also have access.  
+#### 3.2.2 Hosting Services
+The kingdom shall maintain service provider(s) capable of supporting the technology needs of the kingdom, officer web properties, and branches. This includes, but is not limited to:
+* Hosting for official web properties
+* Domain registration
+* Communications services (e.g. email)
+* Electronic document archiving
+
+
+#### 2.3.1 Requirements
+Deputy and branch reporting shall facilitate and contribute to the kingdom reporting requirements established in the SCA, Inc Webministers Handbook. This consists of at least a quarterly report submitted 2 weeks before the society reporting deadline. The report shall make use of the tool and format provided by the Office of Webministry. 
+
+### 4.5 Warranting
+
+
 #### 2.2.1 Requirements
 All members of the Office of Webministry are required to maintain an active warrant. The Office of Webministry shall maintain a list of all active warrants for the kingdom. The Office of Webministry shall provide a form and/or format for consistent reporting.  
 #### 2.2.2 Qualifications
 * Be a paid member in good standing with the SCA.
 * Be warranted by the Kingdom Webwryght
 
-### 2.3 Reporting
-#### 2.3.1 Requirements
-Deputy and branch reporting shall facilitate and contribute to the kingdom reporting requirements established in the SCA, Inc Webministers Handbook. This consists of at least a quarterly report submitted 2 weeks before the society reporting deadline. The report shall make use of the tool and format provided by the Office of Webministry. 
 
-
-## 3 Technology Responsibility
-### 3.1 Kingdom website
-#### 3.1.1 Goals and Directives
-The primary purpose of the kingdom website is to encourage and facilitate participation in activities throughout the kingdom. The site shall function as the online face of the kingdom for all functions not ascribed to other offices. 
-#### 3.1.2 Offices
-The kingdom website shall maintain a list of kingdom offices and the holders and deputies of those offices, including contact information. For the purposes of this document, kingdom royalty is considered an office. Each office is responsible for providing content relevant to that office. 
-#### 3.1.3 Calendar
-The kingdom website shall maintain both an approved event calendar and an event planning calendar. 
-#### 3.1.4 Branch Contact
-The kingdom website shall maintain a list of active branches, their useful modern geographic areas, and contact information relevant for the branch. If the branch has a recodgnized website, it should also be included.
-#### 3.1.5 Library
-The kingdom website shall maintain a library of current governing documents and addendums. Content for the library is the responsibility of the associated office. 
 
 ============
 Kingdom Web Content
