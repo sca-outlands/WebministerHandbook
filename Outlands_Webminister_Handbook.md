@@ -34,10 +34,12 @@ The kingdom website shall maintain a library of current governing documents and 
 ## 3 Chain of Command
 ### 3.1 Office Hierarchy
 #### 3.1.1 Structure of the Office of Web Ministry
-The Office of Web Ministry reports to the Society Office of Webminister and to the Kingdom Seneschal. It comprises the Kingdom Webwright, associated kingdom and special project deputies, and branch webministers. 
+The Office of Web Ministry is a Greater Office of the Kingdom of the Outlands. It comprises the kingdom webminister, associated kingdom and special project deputies, and branch webministers. 
 
 ##### Kingdom Webminister (Webwryght)
 The Kingdom Webminister serves as the liason between kingdom officers, the populace, and the Office of Web Ministry. They are responsible for overseeing management of all official web properties of the Outlands and local groups. 
+
+The Kingdom Webminister reports to the Society Webminister.
 
 ##### Northern Groups Deputy (Waynwryght)
 Addresses concerns from branches X,Y,Z
@@ -70,41 +72,87 @@ Manages roiu.outlands.org
 ##### Emergency Deputy
 Backup to the kwm, if needed
 
-
-
 ## 3 Officer Requirements
 ### 3.1 Requirements for All Webministers
 
 ### 3.2 Kingdom Webministers
+Candidates for Kingdom Webminister shall have served as either a baronial webminister of an Outlands branch or as a Kingdom Webminister.
 
 ### 3.3 Branch Webministers
+#### Branches That Use Kingdom Services
+Branches that elect to use kingdom services have a significantly lower expectation for technical knowledge than self-hosting branches. The branch webminister should have experience using a CMS, or being willing to learn. The webminister's role is to facilitate content creation for officers, landed nobility, and the populace. The webminister should familiarize themself with best practices for helping create effective, accessible content, by participating in kingdom training sessions and reviewing kingdom resources.
 
+#### Branches That Self-Host
+Branches that elect to self-host are required to have a webminister with sufficient technical knowledge to adminster and maintain all branch properties, meeting the standards established for security, transparency, and accessibility.
 
-
+Additionally, the webminister's role is to facilitate content creation for officers, landed nobility, and the populace. The webminister should familiarize themself with best practices for helping create effective, accessible content, by participating in kingdom training sessions and reviewing kingdom resources.
 
 ## 4 Reporting and Warranting
 ### 4.1 Reporting Requirements
-No addendums
+The Office of Web Ministry shall provide a form and/or format for consistent reporting.
+
+#### Deputy and Branch Reporting
+Deputy and branch reporting shall facilitate and contribute to the kingdom reporting requirements established in the SCA, Inc Webministers Handbook. This consists of at least a quarterly report submitted 2 weeks before the society reporting deadline. The report shall make use of the tool and format provided by the Office of Web Ministry.
 
 ### 4.2 Communication with the Society Webminister
-No addendums
+No additions
 
 ### 4.3 Transfer of Office
-#### 4.3.3 Self-nomination and Approval
-Candidates for Kingdom Webminister shall have served as either a baronial webminister of an Outlands branch or as a Kingdom Webminister.
+No additions
+
+### 4.4 Oversight of Local Websites
+No additions
+
+### 4.5 Warranting
+The Office of Webministry shall provide a form and/or format for consistent reporting.
+
+### 4.6 Removal from Office
+
 
 ## 5 Infrastructure
 ### 5.1 Hosting Requirements
-### 5.2 Domain Names
+The kingdom shall maintain service provider(s) capable of supporting the technology needs of the kingdom, officer web properties, and branches. This includes, but is not limited to:
+* Hosting for official web properties
+* Domain registration
+* Communications services (e.g. email)
+* Electronic document archiving
 
+### 5.2 Domain Names
+#### Branch Web Properties
+All branches will be provided with a domain which follows the format **[branchname].outlands.org**. A branch may additionally petition to add a single domain following the format **[branchname].org**, which will be registered and paid for by the kingdom. Any additional domains must be registered and paid for by the branch, not an individual.
+
+#### Other Web Properties
+All kingdom web properties shall be provided with a domain which follows the format **[entity].outlands.org**. Official web properties may petition to maintain an additional domain name, which must be registered to the Office of Web Ministry.
+
+### 5.3 Kingdom Accounts
+All official accounts and services shall be registered to a recognized kindgom user, not an individual, unless that is impossible. The kingdom Seneschal and the kingdom Webwright, as well as appropriate appointed deputies, shall have access to all official accounts and services. If any account incurs a financial requirement, the kingdom Exchequer and any appropriate deputy shall also have access.  
 
 ## 6 Website Construction
 ### 6.1 Official Websites, definition
+
 ### 6.2 All Official Websites
+The list of official web properties of the Outlands shall be updated annually in Appendix 1. [@TODO - maybe move this somewhere else]
+
 ### 6.3 Accessibility Guidelines
+Kingdom web properties will adhere to WCAG 2.0 A compliance. 
+
 ### 6.4 Referencing Society Policies
+No additions
+
 ### 6.5 Personal Information, Photographs, and Creative Works
+No additions
+
 ### 6.6 Copyright Statement and Disclaimers
+No additions
+
+### 6.7 Transparency and Redundancy
+Documentation for all properties and service providers shall be provided to the Office of Web Ministry. 
+
+#### Kingdom Web Properties
+The Kingdom Web Minister and the Kingdom Seneschal must have administrative access for all kingdom web properties and services. If a service entails a financial commitment, the Kingdom Exchequer shall also have administrative access.
+
+#### Branch Web Properties
+The branch seneschal, branch web minister, and the Kingdom Web Minister must have administrative access to all properties and service providers. If a service entails a financial commitment, the Kingdom Exchequer shall also have administrative access.
 
 
 ## 7 Additional Considerations for the Kingdom of the Outlands
@@ -113,6 +161,13 @@ Candidates for Kingdom Webminister shall have served as either a baronial webmin
 
 
 
+# Appendix 1: Official Web Properties of the Outlands
+
+Outlands.org
+chivalry.outlands.org
+outlandsheralds.org
+moas.outlands.org
+roiu.outlands.org
 
 
 
@@ -121,38 +176,6 @@ Candidates for Kingdom Webminister shall have served as either a baronial webmin
 
 
 
-
-
-
-
-
-
-
-#### 3.2.1 Transparency and Redundancy
-Webwryght and Seneschal must have admin access for all official service providers, properties, etc. - INCLUDING separate branch properties and services.
-Branch seneschal must have admin access to all properties and service providers.
-Documentation for all properties and services providers provided to Office of Webministry
-#### 3.2.2 Kingdom Accounts
-All official accounts and services shall be registered to a recognized kindgom user, not an individual. The kingdom Seneschal and the kingdom Webwright, as well as appropriate appointed deputies, shall have access to all official accounts and services. If any account incurs a financial requirement, the kingdom Exchequer and any appropriate deputy shall also have access.  
-#### 3.2.2 Hosting Services
-The kingdom shall maintain service provider(s) capable of supporting the technology needs of the kingdom, officer web properties, and branches. This includes, but is not limited to:
-* Hosting for official web properties
-* Domain registration
-* Communications services (e.g. email)
-* Electronic document archiving
-
-
-#### 2.3.1 Requirements
-Deputy and branch reporting shall facilitate and contribute to the kingdom reporting requirements established in the SCA, Inc Webministers Handbook. This consists of at least a quarterly report submitted 2 weeks before the society reporting deadline. The report shall make use of the tool and format provided by the Office of Webministry. 
-
-### 4.5 Warranting
-
-
-#### 2.2.1 Requirements
-All members of the Office of Webministry are required to maintain an active warrant. The Office of Webministry shall maintain a list of all active warrants for the kingdom. The Office of Webministry shall provide a form and/or format for consistent reporting.  
-#### 2.2.2 Qualifications
-* Be a paid member in good standing with the SCA.
-* Be warranted by the Kingdom Webwryght
 
 
 
@@ -180,18 +203,8 @@ the Exchequer. If you use SCA funds to purchase software or equipment, this prop
 the SCA. Copies of SCA purchased software may not be kept for personal use after the
 Webminister steps down.
 
-#### 3.2.1 Transparency and Redundancy
-Webwryght and Seneschal must have admin access for all official service providers, properties, etc. - INCLUDING separate branch properties and services.
-Branch seneschal must have admin access to all properties and service providers.
-Documentation for all properties and services providers provided to Office of Webministry
-#### 3.2.2 Kingdom Accounts
-All official accounts and services shall be registered to a recognized kindgom user, not an individual. The kingdom Seneschal and the kingdom Webwright, as well as appropriate appointed deputies, shall have access to all official accounts and services. If any account incurs a financial requirement, the kingdom Exchequer and any appropriate deputy shall also have access.  
-#### 3.2.2 Hosting Services
-The kingdom shall maintain service provider(s) capable of supporting the technology needs of the kingdom, officer web properties, and branches. This includes, but is not limited to:
-* Hosting for official web properties
-* Domain registration
-* Communications services (e.g. email)
-* Electronic document archiving
+
+
 
 #### 3.2.3 Communications
 
@@ -212,35 +225,6 @@ If a branch wishes to maintain their own web precence:
 
 
 
-## 4 Content
-### 4.1 Goal
-
-
-
-### Disclaimer
-The Outlands disclaimer must be on the main page or linked to the main page of every certified
-site. Refer to list after the disclaimer to fill in the blanks for your particular type of page. 
-
-> This is the recognized web site for the {_A_}, Kingdom of the Outlands (The Society for Creative Anachronism, Inc.) and is maintained by {_Modern and/or SCA Name of webminister_}. This site may contain electronic versions of the group's governing documents. Any discrepancies between the electronic version of any information on this site and the printed version that is available from the originating office will be decided in favor of the printed version. 
->
-> Copyright © {_Modern Year_} {B}. The original contributors retain the copyright of certain portions of this site. For information on using photographs, articles, or artwork from this web site, please contact the webminister at {_webminister's email address_}. They will assist you in contacting the original creator of the piece. Please respect the legal rights of our contributors.
-
-{A}
-
-Group Name (Example: The Shire of Caer Galen or The Barony of al-Barran)
-
-Office of (Example: The office of the Hospitaller or The Minister of Arts and Sciences)
-
-Organization (Example: Outlands War Council or The Outlands Fundraising Committee)
-
-{B}
-
-If your hosting services or domain name are paid for by the SCA, then this must read {group}, {office of} or {Organization}.
-
-If this is a private page (not using SCA funds) then this may read {modern name of copyright holder} if appropriate.
-
-
-### Accessibility
 
 
 ### Privacy
@@ -291,40 +275,3 @@ which promote the SCA.
 6) Inappropriate use of copyrighted material.
 
 
-
-
-
-
-
-
-------------------
-
-
-
-
----
-
-
-# Appendix
-## Glossary
-_Domain_: The web address in its simplest form (i.e. yahoo.com, outlands.org, netscape.net) 
-
-_Web site or site_: An entire grouping of pages hosted by a single entity.
-
-_Certified Site/Page_: A web site or page that meets the criteria set forth in the Outlands Webminister’s Policies.
-
-_Group Pages_: Web sites or pages for a specific group in the Outlands.
-
-_Hosting_: The company that is maintaining the servers on which web pages are stored.
-
-_Main page_: The index page or the first page that people see when visiting a web site. This does not include splash pages.
-
-_Officer Pages_: Web sites or pages for a office or officer in the Outlands.
-
-_Official Site/Page_: A web site recognized as the web site for that group or office (recognized by the group).
-
-_Splash Page_: A greetings page. Sometimes these include animations or options to select what kind of detail you would like to see on the web site.
-
-_Web page_: One page of web code.
-
-_Web Site_: A collection of web pages gathered together to represent an idea or theme.
