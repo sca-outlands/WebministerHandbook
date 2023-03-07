@@ -163,11 +163,11 @@ The branch seneschal, branch web minister, and the Kingdom Web Minister must hav
 
 # Appendix 1: Official Web Properties of the Outlands
 
-Outlands.org
-chivalry.outlands.org
-outlandsheralds.org
-moas.outlands.org
-roiu.outlands.org
+* Outlands.org
+* chivalry.outlands.org
+* outlandsheralds.org
+* moas.outlands.org
+* roiu.outlands.org
 
 
 
@@ -175,14 +175,11 @@ roiu.outlands.org
 
 
 
+<details><summary>Other Draft Content</summary>
 
-
-
-
-============
-Kingdom Web Content
+**Kingdom Web Content**
 Outside of those mandated items above, the Kingdom Webminister reserves the right as to what is listed or not listed on the Outlands web site.
-============
+
 
 ### 3.2 Accounts and Services
 
@@ -204,8 +201,6 @@ the SCA. Copies of SCA purchased software may not be kept for personal use after
 Webminister steps down.
 
 
-
-
 #### 3.2.3 Communications
 
 ### 3.3 Office Web Presence
@@ -215,15 +210,6 @@ Office website domains should follow [branchname].outlands.org
 
 ### 3.4 Branch Web Presence
 The kingdom shall provide hosting, domain registration, and email.
-
-Branch website domains should follow [branchname].outlands.org
-They may additionally use a single vanity domain, which the branch will pay for.
-
-If a branch wishes to maintain their own web precence:
-* must have warranted web minister
-* must adhere to accessibility, goal, and content requirements provided here
-
-
 
 
 
@@ -274,4 +260,4 @@ from the main page:
 which promote the SCA.
 6) Inappropriate use of copyrighted material.
 
-
+</details>
