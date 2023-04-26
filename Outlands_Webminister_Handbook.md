@@ -20,11 +20,17 @@ The kingdom website shall maintain a library of current governing documents and 
 
 ### 2.2 Other Internet Infrastructure
 
+The Kingdom Webminister should provide official outlands.org email accounts for kingdom officers. All official correspondence should come from the provided email.
+
 ### 2.3 Organizational
 
 ### 2.4 Limits of Responsibility
 
 ### 2.5 Online Privacy and Data Policies
+
+> Kingdoms may optionally implement their own data policies. If the Kingdom does not have a data policy the Kingdom Webminister shall have a data policy for the data they control (e.g. databases or emails for which the office is responsible)
+
+The Outlands does not currently have a general data policy. As such, data controlled by a webminister may be retained indefinitely.
 
 ### 2.6 Release Forms for Personal Information, Photographs, and Other Creative Works
 
@@ -35,30 +41,31 @@ The kingdom website shall maintain a library of current governing documents and 
 ### 3.1 Office Hierarchy
 #### 3.1.1 Structure of the Office of Web Ministry
 The Office of Web Ministry is a Greater Office of the Kingdom of the Outlands. It comprises the kingdom webminister, associated kingdom and special project deputies, and branch webministers. 
+TODO why is it a Greater Office, should it be, is this in scope?
 
-##### Kingdom Webminister (Webwryght)
+##### Kingdom Webminister
 The Kingdom Webminister serves as the liason between kingdom officers, the populace, and the Office of Web Ministry. They are responsible for overseeing management of all official web properties of the Outlands and local groups. 
 
 The Kingdom Webminister reports to the Society Webminister.
 
-##### Northern Groups Deputy (Waynwryght)
-Addresses concerns from branches X,Y,Z
-Ideally also a branch webminister
+##### Northern Groups Deputy
+Addresses concerns from branches X,Y,Z - TODO list
+Ideally also a branch webminister in one of those branches
 
-##### Southern Groups Deputy (Plowwryght)
-Addresses concerns from branch X,Y,Z
-Ideally also a branch webminister
+##### Southern Groups Deputy
+Addresses concerns from branch X,Y,Z - TODO list
+Ideally also a branch webminister in one of those branches
 
-##### Deputy for Outlands.org (Botwryght)
+##### Deputy for Outlands.org
 Manages content requests for Outlands.org
 
 The Kingdom Webminister is ultimately responsible for all web content which pertains to the Kingdom of the Outlands.
 
-##### Deputy for the Calendar (Whelwryght)
+##### Deputy for the Calendar
 Manages kingdom calendar and planning calendar in coordination with the Office of the Seneschal and the Office of the Chronicler
 
 ##### Deputy for the Marshallate
-Manages Stag's App
+Manages all combat related web applications (currently Stags App)
 
 ##### Deputy for the Arts & Sciences Ministry 
 Manages moas.outlands.org
@@ -70,22 +77,19 @@ Manages outlandsheralds.org
 Manages roiu.outlands.org
 
 ##### Emergency Deputy
-Backup to the kwm, if needed
+Backup to the Kingdom Webminister, if needed
 
 ## 3 Officer Requirements
 ### 3.1 Requirements for All Webministers
 
 ### 3.2 Kingdom Webministers
-Candidates for Kingdom Webminister shall have served as either a baronial webminister of an Outlands branch or as a Kingdom Webminister.
+Candidates for Kingdom Webminister shall have served as either a local branch webminister in the SCA or as a Kingdom Webminister.
 
 ### 3.3 Branch Webministers
 #### Branches That Use Kingdom Services
 Branches that elect to use kingdom services have a significantly lower expectation for technical knowledge than self-hosting branches. The branch webminister should have experience using a CMS, or being willing to learn. The webminister's role is to facilitate content creation for officers, landed nobility, and the populace. The webminister should familiarize themself with best practices for helping create effective, accessible content, by participating in kingdom training sessions and reviewing kingdom resources.
 
-#### Branches That Self-Host
-Branches that elect to self-host are required to have a webminister with sufficient technical knowledge to adminster and maintain all branch properties, meeting the standards established for security, transparency, and accessibility.
-
-Additionally, the webminister's role is to facilitate content creation for officers, landed nobility, and the populace. The webminister should familiarize themself with best practices for helping create effective, accessible content, by participating in kingdom training sessions and reviewing kingdom resources.
+It is strongly recommended that branch webministers use kingdom services. Branch webministers must ask for and receive approval from the Kingdom Webminister before hosting outside the kingdom-provided services.
 
 ## 4 Reporting and Warranting
 ### 4.1 Reporting Requirements
@@ -119,7 +123,7 @@ The kingdom shall maintain service provider(s) capable of supporting the technol
 
 ### 5.2 Domain Names
 #### Branch Web Properties
-All branches will be provided with a domain which follows the format **[branchname].outlands.org**. A branch may additionally petition to add a single domain following the format **[branchname].org**, which will be registered and paid for by the kingdom. Any additional domains must be registered and paid for by the branch, not an individual.
+All branches will be provided with a domain which follows the format **[branchname].outlands.org**. A branch may additionally petition to add a single domain following the format **[branchname].org**, which will be registered and paid for by the kingdom. Other legacy domains may be continued at the discretion of the Kingdom Webminister. Any additional domains must be registered and paid for by the branch, not an individual. 
 
 #### Other Web Properties
 All kingdom web properties shall be provided with a domain which follows the format **[entity].outlands.org**. Official web properties may petition to maintain an additional domain name, which must be registered to the Office of Web Ministry.
@@ -134,7 +138,7 @@ All official accounts and services shall be registered to a recognized kindgom u
 The list of official web properties of the Outlands shall be updated annually in Appendix 1. [@TODO - maybe move this somewhere else]
 
 ### 6.3 Accessibility Guidelines
-Kingdom web properties will adhere to WCAG 2.0 A compliance. 
+Kingdom web properties will adhere to WCAG 2.0 A compliance. TODO - link WCAG
 
 ### 6.4 Referencing Society Policies
 No additions
