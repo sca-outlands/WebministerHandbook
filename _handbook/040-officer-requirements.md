@@ -3,38 +3,12 @@ webtitle: "Officer Requirements"
 ---
 \pagebreak
 
-# Officer Requirements
+# 4 Officer Requirements
+## 4.1 Requirements for All Webministers
 
-In order to ensure the Webministry properly fulfils its responsibilities, all Webministers must meet certain requirements.
+## 4.2 Kingdom Webministers
+Candidates for Kingdom Web Minister shall have served as either an Outlands branch web minister, Outlands kingdom deputy, or as the Kingdom Web Minister of any SCA kingdom.
 
-## Requirements for All Webministers
+## 4.3 Branch Webministers
+The branch web minister should have experience using a CMS, or be willing to learn. The web minister's role is to facilitate content creation for officers, landed nobility, and the populace. The web minister should familiarize themself with best practices for helping create effective, accessible content, by participating in kingdom training sessions and reviewing kingdom resources.
 
-* All Webministers must meet the membership requirements of the office as outlined in Corpora. If a Webminister's membership lapses during the term of office that officer’s warrant is considered terminated immediately upon expiration. 
-* Reliable Internet Access
-* Experience using HTML and/or CMS, as applicable
-
-## Kingdom Webministers
-
-- Experience with ISPs and hosting services
-- Experience with mail servers, if applicable
-- Organization, coordination, delegation
-- Fundamentals of project management
-- Be able to communicate requirements and realities of technology with non-technical people
-- Have a good understanding of how technology works, changes, and evolves, and an understanding of how to troubleshoot issues when they arise.
-
-Kingdom Webministers can appoint deputies as they need and see fit to accomplish the mission/project.
-
-## Branch Webministers
-
-Depending on Kingdom requirements and where the Branch website is hosted, requirements for Branch Webministers may vary. 
-
-For example, some Branches may need to have experience with ISPs, hosting services, and/or mail servers, and others may be hosted on their Kingdom's server and, therefore, not items needed to be known by the Branch Webminister.
-
-The following are guidelines for Branch Webministers:
-
-- Be a warranted Webminister
-- Read, understand, and follow the Kingdom Webminister Policies
-- Organization, coordination, delegation
-- Fundamentals of project management
-- Be able to communicate about technology items with non-technical people
-- Have a good understanding of how technology works, changes, and evolves, and an understanding of how to troubleshoot issues when they arise.
