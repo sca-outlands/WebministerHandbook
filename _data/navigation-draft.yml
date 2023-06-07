@@ -1,0 +1,7 @@
+main:
+  - title: "Handbook"
+    url: /handbook.pdf
+  - title: "Resources"
+    url: /resources/
+  - title: "Forms"
+    url: /forms/

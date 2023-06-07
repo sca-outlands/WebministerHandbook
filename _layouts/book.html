@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="robots" content="noindex" />
+  <title>{{ site.title }}</title>  
+  <style>
+
+@page {
+  margin: 10mm;
+}
+
+body {
+  margin: 0
+}
+
+h1 {
+  font-size: 32px;
+  text-align: center;
+  font-family: Georgia, Times, serif;
+}
+
+h4 {
+  font-size: 16px;
+  text-align: center;
+  font-family: Georgia, Times, serif;
+}
+
+p {
+  font-size: 18px;
+  font-family: Georgia, Times, serif;
+}
+
+ol {
+  font-size: 18px;
+  font-family: Georgia, Times, serif;
+}
+
+ul {
+  font-size: 18px;
+  font-family: Georgia, Times, serif;
+}
+
+.single {
+  margin: 0px 0px 0px 0px;
+  overflow: hidden;
+  position: relative;
+  box-sizing: border-box;
+  width: 210mm;
+  padding: 10mm;
+  page-break-before: avoid;
+  page-break-inside: avoid;
+  page-break-after: always;
+}
+
+@media screen {
+  body { background: #d0d0d0 }
+  .single {
+    background: white;
+    margin: 5mm auto;
+  }
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+  </style>
+</head>
+
+<body>
+{{ content }}
+</body>
+
+</html>

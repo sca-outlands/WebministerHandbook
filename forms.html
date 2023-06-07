@@ -1,0 +1,27 @@
+---
+title: Forms
+layout: single
+collection: forms
+classes: wide
+---
+
+<ul>
+  {% for file in site.static_files %}
+    {% if file.path contains "/forms/" %}
+      <li>
+        <a href="{{site.baseurl}}{{ file.path }}">
+          {{ file.basename | replace: '-', ' ' | capitalize }}
+        </a>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+
+{{site.forms}}
+  <ol>
+    {% for form in site.forms %}
+      <li>{{form}}</li>
+    {% endfor %}
+  </ol>
+
