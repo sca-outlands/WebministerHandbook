@@ -3,44 +3,64 @@ webtitle: "Chain of Command"
 ---
 \pagebreak
 
-# Chain of Command
+# 3 Chain of Command
+## 3.1 Office Hierarchy
+### 3.1.1 Structure of the Office of Web Ministry
+The Office of Web Ministry is a Greater Office of the Kingdom of the Outlands. It comprises the kingdom web minister, associated kingdom and special project deputies, and branch web ministers. 
 
-The purpose of a Chain of Command is to show who is responsible for what job and to identify who reports to whom in the organization. While we are an organization of volunteers, it is still vital to understand  lines of communication within the organization. 
+#### Kingdom Web Minister (Webwryght)
+The Kingdom Web Minister serves as the liason between kingdom officers, the populace, and the Office of Web Ministry. They are responsible for overseeing management of all official web properties of the Outlands and local groups. 
 
-## Office Hierarchy
+The Kingdom Web Minister reports to the Society Webminister.
 
-Society Webminister and Kingdom Webministers provide guidance to local branches as requested or needed to ensure (Kingdom) policies are upheld. 
+#### Northern Groups Deputy (Waynwryght)
+The Northern Groups Deputy supports web ministers and their branches for the following groups:
+* Barony of Aarquelle
+* Barony of Caer Galen
+* Barony of Caerthe
+* Barony of Dragonsspine
+* Barony of Unser Hafen
+* Shire of Draca Mor
+* Shire of Plattefordham
+* Shire of Windkeep
 
-The Society Webminister is responsible for:
+Ideally, the officer in this role is also a branch web minister in one of these groups.
 
-* Establishing and maintaining society-wide standards for websites and Internet technology.
-* Warranting Kingdom Webministers.
-* Collecting reports from Kingdom Webministers.
-* Reporting to the Board on the overall state of the webministry.
+#### Southern Groups Deputy (Plowwryght)
+The Southern Groups Deputy supports web ministers and their branches for the following groups:
+* Barony of al-Barran
+* Barony of the Citadel of the Southern Pass
+* Barony of Fontaine dans Sable
+* Shire of Blackwater Keep
+* Shire of Bryngolau
+* Shire of Drygestan
+* Shire of Nahrun Kabirun
+* Shire of Rio de las Animas
+* Shire of White Mountain
 
-Kingdom Webministers are responsible for:
+Ideally, the officer in this role is also a branch web minister in one of these groups. 
 
-* Maintaining their Kingdom's website.
-* Warranting and overseeing local Webministers in their Kingdom.
-* Maintaining a roster of local branch Webministers who report to them.
-* Collecting reports from local Webministers.
-* Reporting to the Society Webminister on the overall state of webministry activity in their Kingdom. 
-* Setting Kingdom policies which supplement (but do not supersede) society policies. 
+#### Deputy for Outlands.org (Botwryght)
+Manages content requests for Outlands.org
 
-Local Webministers are responsible for:
+The Kingdom Web Minister is ultimately responsible for all web content which pertains to the Kingdom of the Outlands.
 
-* Maintaining the website for which they are warranted.
-* Reporting to their Kingdom Webminister.
+#### Deputy for the Calendar (Whelwryght)
+Manages kingdom calendar and planning calendar in coordination with the Office of the Seneschal and the Office of the Chronicler
 
-Webministers at all levels of the chain of command may have deputies to assist them in their work.
+#### Deputy for the Marshallate
+Manages web applications related to combat activities, in coordination with the appropriate officer in the Office of the Earl Marshal. The deputy is responsible for maintaining auth.outlands.org.
 
-The Webministers of the Pennsic War and Gulf War websites are to be considered a Deputies to the
-Society Webminister in all ways, including reporting for the duration of the site's existence and
-are bound to the same requirements listed in the Officer Requirements chapter. The War Webministers need not be warranted as they are considered Deputies.
+#### Deputy for the Arts & Sciences Ministry 
+Manages the Outlands Arts & Sciences web application in coordination with the appropriate officer in the Office of the Minister of Arts & Sciences. The deputy is responsible for maintaining moas.outlands.org.
 
+#### Deputy for the Outlands College of Heralds
+Manages the Outlands College of Heralds web applications, in coordination with the appropriate officer in the Outlands College of Heralds. The deputy is responsible for maintaining outlandsheralds.org and scribes.outlands.org.
 
-Current Structure is as follows:
+#### Deputy for the Royal Outlands Interkingdom University
+Manages the Royal Outlands Interkingdom University web application, available at roiu.outlands.org.
 
-![Chain of Command](chain-of-command.png)
+#### Emergency Deputy
+Backup to the Kingdom Web Minister
 
 
