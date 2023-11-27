@@ -5,6 +5,56 @@ This document provides additional information and context for the Kingdom of the
 
 This addendum adds context and additional expectations for the Kingdom of the Outlands, including the structure of the Office of Webministry, 
 
+
+### Contents
+  
+    1 Executive Summary  
+    2 Responsibilities  
+      2.1 Official Websites
+        2.1.1 Goals and Directives
+        2.1.2 Offices
+        2.1.3 Calendar
+        2.1.4 Branch Contact
+        2.1.5 Library
+      2.2 Other Internet Infrastructure
+      2.3 Organizational
+      2.4 Limits of Responsibility
+      2.5 Online Privacy and Data Policies
+      2.6 Release Forms for Personal Information, Photographs, and Other Creative Works
+      2.7 Avoid Taking Sides in Disputes
+    3 Chain of Command
+      3.1 Office Hierarchy
+        3.1.1 Structure of the Office of Web Ministry
+    4 Officer Requirements
+      4.1 Requirements for All Webministers
+      4.2 Kingdom Webministers
+      4.3 Branch Webministers
+    5 Reporting and Warranting
+      5.1 Reporting Requirements
+      5.2 Communication with the Society Webminister
+      5.3 Transfer of Office
+      5.4 Oversight of Local Websites
+      5.5 Warranting
+      5.6 Removal from Office
+    6 Infrastructure
+      6.1 Hosting Requirements
+      6.2 Domain Names
+      6.3 Kingdom Accounts
+    7 Website Construction
+      7.1 Official Websites, definition
+      7.2 All Official Websites
+      7.3 Accessibility Guidelines
+      7.4 Referencing Society Policies
+      7.5 Personal Information, Photographs, and Creative Works
+      7.6 Copyright Statement and Disclaimers
+      7.7 Transparency and Redundancy
+      7.8 Code and Configuration Management
+    8 Additional Considerations for the Kingdom of the Outlands
+    8.1 Open Source Technology
+    
+    Appendix 1: Official Web Properties of the Outlands
+
+
 ## 2 Responsibilities
 ### 2.1 Official Websites
 #### 2.1.1 Goals and Directives
