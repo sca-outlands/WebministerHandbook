@@ -67,10 +67,10 @@ Ideally, the officer in this role is also a branch web minister in one of these 
 The Southern Branches Deputy supports web ministers and their branches for the following groups:
 * Barony of al-Barran
 * Barony of the Citadel of the Southern Pass
-* Barony of Fontaine dans Sable
 * Shire of Blackwater Keep
 * Shire of Bryngolau
 * Shire of Drygestan
+* Shire of Fontaine dans Sable
 * Shire of Nahrun Kabirun
 * Shire of Rio de las Animas
 * Shire of White Mountain
@@ -86,40 +86,40 @@ The Content Deputy provides content management for Outlands.org.
 ##### Emergency Deputy
 Backup to the Kingdom Web Minister.
 
-## 3 Officer Requirements
-### 3.1 Requirements for All Webministers
+## 4 Officer Requirements
+### 4.1 Requirements for All Webministers
 No additions
 
-### 3.2 Kingdom Webministers
+### 4.2 Kingdom Webministers
 Candidates for Kingdom Web Minister shall have served as either an Outlands branch web minister, Outlands kingdom deputy, or as the Kingdom Web Minister of any SCA kingdom.
 
-### 3.3 Branch Webministers
+### 4.3 Branch Webministers
 The branch web minister should have experience using a CMS, or be willing to learn. The web minister's role is to facilitate content creation for officers, landed nobility, and the populace. The web minister should familiarize themself with best practices for helping create effective, accessible content, by participating in kingdom training sessions and reviewing kingdom resources.
 
-## 4 Reporting and Warranting
-### 4.1 Reporting Requirements
+## 5 Reporting and Warranting
+### 5.1 Reporting Requirements
 All reports shall be submitted using the Outlands Services Portal.
 
 #### Deputy and Branch Reporting
 Deputy and branch reporting shall facilitate and contribute to the kingdom reporting requirements established in the SCA, Inc Webministers Handbook. This consists of at least a quarterly report submitted 2 weeks before the society reporting deadline. The report shall make use of the tools and format provided by the Office of Web Ministry.
 
-### 4.2 Communication with the Society Webminister
+### 5.2 Communication with the Society Webminister
 No additions
 
-### 4.3 Transfer of Office
+### 5.3 Transfer of Office
 No additions
 
-### 4.4 Oversight of Local Websites
+### 5.4 Oversight of Local Websites
 No additions
 
-### 4.5 Warranting
+### 5.5 Warranting
 The Office of Web Ministry shall provide a form and/or format for submitting and maintaining the roster of active warrants for branch web ministers and kingdom deputies.
 
-### 4.6 Removal from Office
+### 5.6 Removal from Office
 No additions
 
-## 5 Infrastructure
-### 5.1 Hosting Requirements
+## 6 Infrastructure
+### 6.1 Hosting Requirements
 The kingdom shall maintain service provider(s) capable of supporting the technology needs of the kingdom, officer web properties, and branches. This includes, but is not limited to:
 * Hosting for official web properties
 * Domain registration
@@ -128,36 +128,36 @@ The kingdom shall maintain service provider(s) capable of supporting the technol
 
 It is strongly recommended that branch web ministers use kingdom services. Kingdom officers and branch web ministers must ask for and receive approval from the Kingdom Web Minister before hosting official websites outside the kingdom-provided services.
 
-### 5.2 Domain Names
+### 6.2 Domain Names
 #### Branch Web Properties
 All branches will be provided with a domain which follows the format **[branchname].outlands.org**. A branch may additionally petition to add a single domain following the format **[branchname].org**, which will be registered and paid for by the kingdom, assuming it is available. Other legacy domains may be continued at the discretion of the Kingdom Web Minister. Any additional domains must be approved by the Kingdom Web Minister and registered and paid for by the branch, not an individual.
 
 #### Other Web Properties
 Any kingdom web properties may be provided with a domain which follows the format **[entity].outlands.org**. Administrators of official web properties may petition to maintain an additional domain name, which must be registered to the Office of Web Ministry.
 
-### 5.3 Kingdom Accounts
+### 6.3 Kingdom Accounts
 All official accounts and services shall be registered to a recognized kindgom user, not an individual, unless that is impossible. The Kingdom Seneschal and the Kingdom Web Minister, as well as appropriate appointed deputies, shall have access to all official accounts and services. If any account incurs a financial requirement, the Kingdom Exchequer and any appropriate deputy shall also have access.  
 
-## 6 Website Construction
-### 6.1 Official Websites, definition
+## 7 Website Construction
+### 7.1 Official Websites, definition
 No additions
 
-### 6.2 All Official Websites
+### 7.2 All Official Websites
 The list of official web properties of the Outlands shall be updated annually in Appendix 1. 
 
-### 6.3 Accessibility Guidelines
+### 7.3 Accessibility Guidelines
 Kingdom web properties will adhere to WCAG 2.1 A compliance or better. See https://www.w3.org/TR/WCAG21/ for standards. 
 
-### 6.4 Referencing Society Policies
+### 7.4 Referencing Society Policies
 No additions
 
-### 6.5 Personal Information, Photographs, and Creative Works
+### 7.5 Personal Information, Photographs, and Creative Works
 No additions
 
-### 6.6 Copyright Statement and Disclaimers
+### 7.6 Copyright Statement and Disclaimers
 No additions
 
-### 6.7 Transparency and Redundancy
+### 7.7 Transparency and Redundancy
 Documentation for all kingdom properties and service providers shall be maintained by the Office of Web Ministry. To the greatest extent possible while keeping security concerns in mind, documentation will be maintained in such a manner that it is publically accessible.
 
 Branches shall maintain accurate documentation of all branch web properties and services, which shall be shared with the Kingdom Web Ministry.
@@ -168,14 +168,14 @@ The Kingdom Web Minister and the Kingdom Seneschal must have administrative acce
 #### Branch Web Properties
 The branch web minister, branch seneschal, and the Kingdom Web Minister must have administrative access to all branch properties and service providers. If a service entails a financial commitment, the branch exchequer shall also have administrative access.
 
-### 6.8 Code and Configuration Management
+### 7.8 Code and Configuration Management
 #### Version Control
 The kingdom shall maintain a version control option for the management of kingdom web properties. All kingdom web properties shall employ this version control standard, including the remote-located version control services (e.g. Github or GitLab). All warranted officers of the web ministry shall be granted access to the kingdom remote version control provider. Individuals may request and be granted access at the discretion of the Kingdom Web Minister or an assigned deputy.
 #### Backups
 All significant web properties or systems shall employ a backup functionality. 
 
-## 7 Additional Considerations for the Kingdom of the Outlands
-### 7.1 Open Source Technology
+## 8 Additional Considerations for the Kingdom of the Outlands
+### 8.1 Open Source Technology
 The Kingdom of the Outlands supports and encourages the use of open source technology and shall make a diligent effort to employ open source solutions whenever possible.
 
 
