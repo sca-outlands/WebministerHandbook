@@ -1,260 +1,256 @@
-# Outlands Webminister’s Handbook
+# Addendum to the Society for Creative Anachronism Webminister Handbook, for the Kingdom of the Outlands
 
-## Office of the Webminister
+## 1 Executive Summary
+This document provides additional information and context for the Kingdom of the Outlands (Outlands), as an extention of the Society for Creative Anachronism's (Society or SCA, Inc.) Webministers' Handbook, available at https://sca-soc-web.gitlab.io/handbook.pdf
 
-## Kingdom Webminister
-The Kingdom Webminister is responsible for maintaining the Kingdom web site, determining web
-policy for the kingdom, and working with Local Webministers to insure pages are accurate and
-appropriate for the SCA. The Kingdom Webminister is charged with ensuring that the information
-is updated in a timely manner (to be defined as no greater than 72 hours from content receipt)
-The Kingdom Webminister is ultimately responsible for all web content which pertains to the
-Kingdom of the Outlands, and is charged with coordinating with all Kingdom entities which may
-have their own websites to ensure all web content is presented in a manner which meet
-certification standards described in this document. The Kingdom Webminister is required to
-provide server space for all Kingdom groups and entities which request it. It is the duty of the
-Kingdom Webminister to maintain contact information for the Kingdom web hosting company. It
-is the duty of the Kingdom Webminister to maintain a list of all usernames and passwords for
-accounts on the Kingdom web server to aid in future office transitions. For any web-based
-application developed for the Kingdom site, it is the duty of the Kingdom Webminister to ensure
-there is enough in-line documentation to ensure future Webministers are able to maintain the
-code. The Kingdom Webminister reports to the Kingdom Chronicler and the Society Webminister.
-
-### Deputy Webministers
-The Kingdom Webminister may designate deputies as needed to help maintain a clean and
-accurate web presence for the Kingdom.
-
-### Group Webminister
-The designated Webminister for a local group, and in the event that a group has several web sites, the Seneschal of the group will determine what web site is the official one for their group. It is recommended, in order to save money, to request and use space on the Kingdom server.
-
-## Structure of the Outlands Web Presence
-### Kingdom Web Content
-The Kingdom Webminister (or an appointed deputy) is responsible for maintaining the following mandatory information on the Kingdom web site or see that this information is part of an officer's web site:
-* An accurate electronic version of the Kingdom Calendar.
-* A complete and up-to-date list of Greater Officers.
-* Contact information for all Royalty and Landed Nobility.
-* Up-to-date versions of Outlands Kingdom Law, Heavy Weapons Combat Rules, Rapier Combat Rules and the Outlandish Chroniclers Handbook and publishing policies for the Outlandish Herald..
-* Any other official documents as mandated by the Kingdom Seneschal.
-* A complete and up-to-date list of all groups within the Kingdom and contact information for their Seneschallate.
-* When possible, no personal e-mail addresses will be listed, and any role based e-mail addresses will be listed in the format role ‘at’ group.org without a hyperlink, or with an obscured hyperlink.
-* When the structure is in place, phone numbers, mailing addresses, personal e-mail addresses and correlation between real name and SCA name may be provided behind a secure login page.
-* All information which changes on a regular basis should be stored in a database, and be dynamically bound to the page it is to be displayed upon.
-
-Outside of those mandated items above, the Kingdom Webminister reserves the right as to what is listed or not listed on the Outlands web site.
-
-### Officer Pages
-All official websites for Kingdom Officers will reside on the Kingdom Server and be hosted
-through the official Kingdom of the Outlands Website. Any Kingdom Officer website residing
-outside of the main Kingdom of the Outlands server is considered “unofficial” and cannot contain
-official kingdom or society information. This will ensure the consistency of websites and the
-ability of the Kingdom Webminister to ensure a smooth transition from officer to officer. If the
-Kingdom Officer has sufficient technical expertise and ability, they can maintain their own officer
-pages once the appropriate security and log into the Kingdom Website has been arranged by the
-Kingdom Webminister.
-
-### Local Group pages
-The Kingdom must host a web page for all local groups who do not have web presence which
-meet the certification standards put forth in this document. Local Seneschals will designate which
-page is their group’s officially recognized page.
-
-### Hosted Pages
-All pages hosted on the Kingdom website must meet certification standards listed below.
-
-### Other Pages
-Other web pages or sites may be listed or hosted at the discretion of the Kingdom Webminister
-as long as they follow Society and Outlands web policy.
-
-The Outlands does not recognize households or guilds, there will be no links to households or
-guilds from the Kingdom site, or local group sites, with the exception of sites built specifically for
-an official kingdom event that has been approved by the sponsoring group and accepted by the
-Kingdom Chronicler as an official event.
-
-## Local Webministers
-At this time there is no requirement that your group have a Webminister, unless you are using
-group funds to pay for the site or domain name. It is highly recommended that the person in
-charge of your group’s web site be an Official Webminister. Official Webministers must meet the
-following requirements.
-* Be a paid member in good standing with the SCA.
-* Have a working knowledge of HTML 4.0
-* Be warranted by the Kingdom Chronicler.
-
-### Certified Pages
-Certified Pages are web sites that are recognized by the Office of the Webminister as relating to
-the SCA and the Kingdom of the Outlands and that have intrinsic value to the people of the
-Outlands. In order to be hosted on the Kingdom web server, or linked to from the Kingdom site, a
-site must meet the following criteria:
-1) The page is for a local chapter of the SCA or that of an office (Kingdom or local).
-2) Or The page is for an official SCA event.
-3) The page(s) meet the guidelines for web pages as set forth by the Electronic Publication
-Manager and the Society Webminister for the SCA for their type of web page.
-4) The pages are not for a SCA household or guild.
-
-**_To meet or keep certification, group pages must contain:_**
-1) Contact information for the Seneschal of the group.
-2) A list of Greater Officers (Type of contact information to be left up to the specific officer or
-the seneschal of the group).
-3) The estimated, modern boundaries of the group, including appropriate zip codes.
-4) Dates and locations for the Business meetings of the group.
-5) A link to the Outlands homepage (http://www.outlands.org).
-6) A link to the parent organization (http://www.sca.org)
-7) Links to all sub-groups or parent groups web sites.
-8) Basic information for people unfamiliar with the SCA.
-9) The Outlands disclaimer (see Disclaimer) must appear on the main page or be linked to
-from the main page:
-10) No links to groups, or entities other than the above listed or pages which are considered
-certified by the Kingdom Webminister.
-
-**_To meet or keep certification, officer pages must contain:_**
-1) Contact information for the officer.
-2) A list of deputies and their contact information (Type of contact information to be left up to
-the specific officer or the officer overseeing the deputies).
-3) A link to the Outlands homepage (http://www.outlands.org).
-4) The Outlands disclaimer (see Disclaimer) must appear on the main page or be linked to
-from the main page.
-
-**_It is also highly recommended that group pages:_**
-1) List all practices and guild meetings
-2) Have detailed information about events that there group is hosting.
-3) Provide detailed information to non-SCA people about the SCA and how to find out more
-about the SCA.
-
-**_To meet or keep certification, group/officer/linked pages MAY NOT contain:_**
-1) Advertising
-2) Links to or reference to obscene or lewd material.
-3) Links to illegal materials, including pirated software.
-4) Slanderous or Libelous material
-5) Information which is disparaging to the SCA or is in conflict with those official activities
-which promote the SCA.
-6) Inappropriate use of copyrighted material.
-
-**_To meet of keep certification, all pages must be formatted correctly:_**
-1) No use of Frames, no exceptions.
-2) No more than 6 columns in a table
-3) If at all avoidable, no tables within tables.
-4) Navigation links on the left side or top of page
-5) All Navigation in the same place throughout the entire site.
-6) Banner or text at the top of the page indicating the group, or sub entity of the group
-7) A Title indicating the group and, if appropriate, the sub area of the group currently being
-viewed. Breadcrumbs are acceptable.
-8) High contrast text / background (no yellow on green!)
-9) Only a discreet piece of information on one page (ie, don’t lump all of your information on
-one page) The information on one page should be readable with a minimal amount of
-vertical scrolling.
-10) No blinking text
-11) Minimal graphics (thumbnails to full sized photo’s are encouraged with the appropriately
-signed authorization to use the photograph on file)
-12) No scrolling text
-13) No animated images
-Formatted: Bullets and Numbering
-Formatted: Bullets and Numbering
-
-## Outlands Disclaimer
-The Outlands disclaimer must be on the main page or linked to the main page of every certified
-site. Refer to list after the disclaimer to fill in the blanks for your particular type of page. 
-
-> This is the recognized web site for the {_A_}, Kingdom of the Outlands (The Society for Creative Anachronism, Inc.) and is maintained by {_Modern and/or SCA Name of webminister_}. This site may contain electronic versions of the group's governing documents. Any discrepancies between the electronic version of any information on this site and the printed version that is available from the originating office will be decided in favor of the printed version. 
->
-> Copyright © {_Modern Year_} {B}. The original contributors retain the copyright of certain portions of this site. For information on using photographs, articles, or artwork from this web site, please contact the webminister at {_webminister's email address_}. They will assist you in contacting the original creator of the piece. Please respect the legal rights of our contributors.
-
-{A}
-
-Group Name (Example: The Shire of Caer Galen or The Barony of al-Barran)
-
-Office of (Example: The office of the Hospitaller or The Minister of Arts and Sciences)
-
-Organization (Example: Outlands War Council or The Outlands Fundraising Committee)
-
-{B}
-
-If your hosting services or domain name are paid for by the SCA, then this must read {group}, {office of} or {Organization}.
-
-If this is a private page (not using SCA funds) then this may read {modern name of copyright holder} if appropriate.
-
-## Editorial Content
-Editorial comments and articles should be clearly marked as such. Webministers should take
-great care in making sure that the content of the Editorial material is not libelous and is in keeping
-with the spirit of the SCA and its goals.
-
-## Financial Activities
-Because the cost of domains and web hosting can be high, it is recommended that caution be
-exercised before using SCA funds to support your web site. The Kingdom will provide web-
-hosting space for free to groups which can not maintain their own website and for a minimal
-charge for groups which do maintain their own website. It is highly recommended that all groups
-take advantage of this service, as it will save the Kingdom money, and provide a greater service
-to its populace.
-
-No matter how the site is funded, all pages must meet the financial requirements listed here.
-Advertising is strictly forbidden, this includes banner ads from such sites as Geocities. Geocities
-and the like are strictly prohibited from being used as hosting services. If your web pages are paid
-for with SCA funds, you must turn in financial reports and expense reports to your local
-Exchequer, and the Kingdom Webminister. The form of this reporting is left up to the discretion of
-the Exchequer. If you use SCA funds to purchase software or equipment, this property belongs to
-the SCA. Copies of SCA purchased software may not be kept for personal use after the
-Webminister steps down.
-
-## Links
-All links maintained on official websites must be tested at least quarterly to ensure that they are
-still correct. Broken links must be updated or deleted upon discovery of the break.
-
-## Privacy, Credit and Permission
-
-### Privacy
-All participants in the SCA expect and deserve a certain amount of privacy. Personally identifiable
-information may be published on web sites with the written permission (sent via US mail or e-
-mail) of the person identified. This information includes, but is not limited to; Modern name, home
-or work address, phone number or e-mail addresses. Photos and artwork that depict specific
-individuals must be used with care. The person or persons in the representation have the right to
-request that their image be removed from your site at any time. When at all possible, this
-information should be secured behind a login / password. Please see the Kingdom Webminister
-for assistance in achieving this level of security.
-
-### Credit and Permission
-Other people’s graphics, prose or poetry, articles, photos or other artwork should be used only
-with specific permission to do so. If required by the originator these items should also include
-copyright and credit to the author. If you have copyright issues that you cannot find an answer to
-yourself, please try the U.S. Copyright office. Their URL is http://lcweb.loc.gov/copyright/ , You
-must maintain a file of all authorizations to use material on your website. You can use the official
-release for publication on the Kingdom of the Outlands website, or an email with the mundane
-and SCA name of the individual along with their specific written permission to use or post the
-work. This information must be maintained for the duration that the item is on the website.
-
-## Reporting
-Webministers should report to through their Chronicler and send a copy to the Kingdom
-Webminister. Please contact the current Kingdom Webminister to find out what information they
-would like in your reports.
-
----
-
-Pending approval of these policies by The Crown of the Outlands and the Kingdom Chronicler, the Kingdom Webminister will allow a grace period for groups to meet the guidelines set here.
-
-These policies will take full effect January 1, 2006.
-
-August 16, 2005
-
-Thomas Dudley
-
-_Kingdom Webminister_
+This addendum adds context and additional expectations for the Kingdom of the Outlands, including the structure of the Office of Webministry, 
 
 
-# Appendix
-## Glossary
-_Domain_: The web address in its simplest form (i.e. yahoo.com, outlands.org, netscape.net) 
+### Contents
+  
+    1 Executive Summary  
+    2 Responsibilities  
+      2.1 Official Websites
+        2.1.1 Goals and Directives
+        2.1.2 Offices
+        2.1.3 Calendar
+        2.1.4 Branch Contact
+        2.1.5 Library
+      2.2 Other Internet Infrastructure
+      2.3 Organizational
+      2.4 Limits of Responsibility
+      2.5 Online Privacy and Data Policies
+      2.6 Release Forms for Personal Information, Photographs, and Other Creative Works
+      2.7 Avoid Taking Sides in Disputes
+    3 Chain of Command
+      3.1 Office Hierarchy
+        3.1.1 Structure of the Office of Web Ministry
+    4 Officer Requirements
+      4.1 Requirements for All Webministers
+      4.2 Kingdom Webministers
+      4.3 Branch Webministers
+    5 Reporting and Warranting
+      5.1 Reporting Requirements
+      5.2 Communication with the Society Webminister
+      5.3 Transfer of Office
+      5.4 Oversight of Local Websites
+      5.5 Warranting
+      5.6 Removal from Office
+    6 Infrastructure
+      6.1 Hosting Requirements
+      6.2 Domain Names
+      6.3 Kingdom Accounts
+    7 Website Construction
+      7.1 Official Websites, definition
+      7.2 All Official Websites
+      7.3 Accessibility Guidelines
+      7.4 Referencing Society Policies
+      7.5 Personal Information, Photographs, and Creative Works
+      7.6 Copyright Statement and Disclaimers
+      7.7 Transparency and Redundancy
+      7.8 Code and Configuration Management
+    8 Additional Considerations for the Kingdom of the Outlands
+    8.1 Open Source Technology
+    
+    Appendix 1: Official Web Properties of the Outlands
 
-_Web site or site_: An entire grouping of pages hosted by a single entity.
 
-_Certified Site/Page_: A web site or page that meets the criteria set forth in the Outlands Webminister’s Policies.
+## 2 Responsibilities
+### 2.1 Official Websites
+#### 2.1.1 Goals and Directives
+The primary purpose of the kingdom website is to encourage and facilitate participation in activities throughout the kingdom. The site shall function as the online face of the kingdom for all functions not ascribed to other offices.
+The primary purpose of a branch website is to encourage and facilitate participation in activities relevant to the geographic area of the branch. The site shall function as the online face of the branch for all functions not ascribed to other offices.
+#### 2.1.2 Offices
+The kingdom website shall maintain a list of kingdom offices and the holders and deputies of those offices, including contact information. For the purposes of this document, kingdom royalty is considered an office. Each office is responsible for providing content relevant to that office. 
+#### 2.1.3 Calendar
+The kingdom website shall maintain a calendar of published events, including both kingdom and branch events. 
+#### 2.1.4 Branch Contact
+The kingdom website shall maintain a list of active branches, their useful modern geographic areas, and contact information relevant for the branch. If the branch has a recodgnized website, it should also be included.
+#### 2.1.5 Library
+The kingdom website shall maintain a library of current governing documents and addendums. Content for the library is the responsibility of the associated office.
 
-_Group Pages_: Web sites or pages for a specific group in the Outlands.
+### 2.2 Other Internet Infrastructure
+The Office of Web Ministry shall be responsible for administering kingdom technical services relevant to the web presence of the kingdom and/or branch. All administered services will include administrative access for at least one additional officer, being either the Kingdom Seneschal or the Kingdom Exchequer. These services include, but are not limited to:
+* Officer Email
+* Single Sign On Authentication
+* Outlands Services Portal 
 
-_Hosting_: The company that is maintaining the servers on which web pages are stored.
+### 2.3 Organizational
+It is the expectation of the kingdom that all web ministers shall endeavor to maintain a professional, inclusive, and collaborative environment. Web ministers are volunteering technical expertise and have a responsibility to exercise good and independent judgement when conducting the business of the office.
 
-_Main page_: The index page or the first page that people see when visiting a web site. This does not include splash pages.
+### 2.4 Limits of Responsibility
+Web ministers are accountable for the content published to official web properties under their authority, and are encouraged to excercise good judgement when granting publication access to others.
 
-_Officer Pages_: Web sites or pages for a office or officer in the Outlands.
+### 2.5 Online Privacy and Data Policies
+The Outlands privacy and data policy is available at https://www.outlands.org/privacy-policy-2/
 
-_Official Site/Page_: A web site recognized as the web site for that group or office (recognized by the group).
+### 2.6 Release Forms for Personal Information, Photographs, and Other Creative Works
+No additions
 
-_Splash Page_: A greetings page. Sometimes these include animations or options to select what kind of detail you would like to see on the web site.
+### 2.7 Avoid Taking Sides in Disputes
+No additions
 
-_Web page_: One page of web code.
+## 3 Chain of Command
+### 3.1 Office Hierarchy
+#### 3.1.1 Structure of the Office of Web Ministry
+The Office of Web Ministry is a Greater Office of the Kingdom of the Outlands. It comprises the Kingdom Web Minister, associated kingdom and special project deputies, and branch web ministers. The Kingdom Web Minister shall create and manage kingdom deputy positions as useful to the needs of the office.
 
-_Web Site_: A collection of web pages gathered together to represent an idea or theme.
+##### Kingdom Web Minister
+The Kingdom Web Minister serves as the liason between kingdom officers, the populace, and the Office of Web Ministry. They are responsible for overseeing management of all official web properties of the Outlands and local groups. Unless there is an assigned deputy, all kingdom services responsibilities fall to the Kingdom Web Minister. 
+
+The Kingdom Web Minister reports to the Society Webminister.
+
+##### Northern Branches Deputy
+The Northern Branches Deputy supports web ministers and their branches for the following groups:
+* Barony of Aarquelle
+* Barony of Caer Galen
+* Barony of Caerthe
+* Barony of Dragonsspine
+* Barony of Unser Hafen
+* Shire of Draca Mor
+* Shire of Plattefordham
+* Shire of Windkeep
+
+Ideally, the officer in this role is also a branch web minister in one of these groups.
+
+##### Southern Branches Deputy
+The Southern Branches Deputy supports web ministers and their branches for the following groups:
+* Barony of al-Barran
+* Barony of the Citadel of the Southern Pass
+* Shire of Blackwater Keep
+* Shire of Bryngolau
+* Shire of Drygestan
+* Shire of Fontaine dans Sable
+* Shire of Nahrun Kabirun
+* Shire of Rio de las Animas
+* Shire of White Mountain
+
+Ideally, the officer in this role is also a branch web minister in one of these groups. 
+
+##### Technical Services Deputy
+The Technical Services Deputy provides engineering expertise to support the core technical services provided by the kingdom. 
+
+##### Content Deputy
+The Content Deputy provides content management for Outlands.org.
+
+##### Emergency Deputy
+Backup to the Kingdom Web Minister.
+
+## 4 Officer Requirements
+### 4.1 Requirements for All Webministers
+No additions
+
+### 4.2 Kingdom Webministers
+Candidates for Kingdom Web Minister shall have served as either an Outlands branch web minister, Outlands kingdom deputy, or as the Kingdom Web Minister of any SCA kingdom.
+
+### 4.3 Branch Webministers
+The branch web minister should have experience using a CMS, or be willing to learn. The web minister's role is to facilitate content creation for officers, landed nobility, and the populace. The web minister should familiarize themself with best practices for helping create effective, accessible content, by participating in kingdom training sessions and reviewing kingdom resources.
+
+## 5 Reporting and Warranting
+### 5.1 Reporting Requirements
+All reports shall be submitted using the Outlands Services Portal.
+
+#### Deputy and Branch Reporting
+Deputy and branch reporting shall facilitate and contribute to the kingdom reporting requirements established in the SCA, Inc Webministers Handbook. This consists of at least a quarterly report submitted 2 weeks before the society reporting deadline. The report shall make use of the tools and format provided by the Office of Web Ministry.
+
+### 5.2 Communication with the Society Webminister
+No additions
+
+### 5.3 Transfer of Office
+No additions
+
+### 5.4 Oversight of Local Websites
+No additions
+
+### 5.5 Warranting
+The Office of Web Ministry shall provide a form and/or format for submitting and maintaining the roster of active warrants for branch web ministers and kingdom deputies.
+
+### 5.6 Removal from Office
+No additions
+
+## 6 Infrastructure
+### 6.1 Hosting Requirements
+The kingdom shall maintain service provider(s) capable of supporting the technology needs of the kingdom, officer web properties, and branches. This includes, but is not limited to:
+* Hosting for official web properties
+* Domain registration
+* Communications services (e.g. email)
+* Electronic document archiving
+
+It is strongly recommended that branch web ministers use kingdom services. Kingdom officers and branch web ministers must ask for and receive approval from the Kingdom Web Minister before hosting official websites outside the kingdom-provided services.
+
+### 6.2 Domain Names
+#### Branch Web Properties
+All branches will be provided with a domain which follows the format **[branchname].outlands.org**. A branch may additionally petition to add a single domain following the format **[branchname].org**, which will be registered and paid for by the kingdom, assuming it is available. Other legacy domains may be continued at the discretion of the Kingdom Web Minister. Any additional domains must be approved by the Kingdom Web Minister and registered and paid for by the branch, not an individual.
+
+#### Other Web Properties
+Any kingdom web properties may be provided with a domain which follows the format **[entity].outlands.org**. Administrators of official web properties may petition to maintain an additional domain name, which must be registered to the Office of Web Ministry.
+
+### 6.3 Kingdom Accounts
+All official accounts and services shall be registered to a recognized kindgom user, not an individual, unless that is impossible. The Kingdom Seneschal and the Kingdom Web Minister, as well as appropriate appointed deputies, shall have access to all official accounts and services. If any account incurs a financial requirement, the Kingdom Exchequer and any appropriate deputy shall also have access.  
+
+## 7 Website Construction
+### 7.1 Official Websites, definition
+No additions
+
+### 7.2 All Official Websites
+The list of official web properties of the Outlands shall be updated annually in Appendix 1. 
+
+### 7.3 Accessibility Guidelines
+Kingdom web properties will adhere to WCAG 2.1 A compliance or better. See https://www.w3.org/TR/WCAG21/ for standards. 
+
+### 7.4 Referencing Society Policies
+No additions
+
+### 7.5 Personal Information, Photographs, and Creative Works
+No additions
+
+### 7.6 Copyright Statement and Disclaimers
+No additions
+
+### 7.7 Transparency and Redundancy
+Documentation for all kingdom properties and service providers shall be maintained by the Office of Web Ministry. To the greatest extent possible while keeping security concerns in mind, documentation will be maintained in such a manner that it is publically accessible.
+
+Branches shall maintain accurate documentation of all branch web properties and services, which shall be shared with the Kingdom Web Ministry.
+
+#### Kingdom Web Properties
+The Kingdom Web Minister and the Kingdom Seneschal must have administrative access for all kingdom web properties and services. If a service entails a financial commitment, the Kingdom Exchequer shall also have administrative access.
+
+#### Branch Web Properties
+The branch web minister, branch seneschal, and the Kingdom Web Minister must have administrative access to all branch properties and service providers. If a service entails a financial commitment, the branch exchequer shall also have administrative access.
+
+### 7.8 Code and Configuration Management
+#### Version Control
+The kingdom shall maintain a version control option for the management of kingdom web properties. All kingdom web properties shall employ this version control standard, including the remote-located version control services (e.g. Github or GitLab). All warranted officers of the web ministry shall be granted access to the kingdom remote version control provider. Individuals may request and be granted access at the discretion of the Kingdom Web Minister or an assigned deputy.
+#### Backups
+All significant web properties or systems shall employ a backup functionality. 
+
+## 8 Additional Considerations for the Kingdom of the Outlands
+### 8.1 Open Source Technology
+The Kingdom of the Outlands supports and encourages the use of open source technology and shall make a diligent effort to employ open source solutions whenever possible.
+
+
+# Appendix 1: Official Web Properties of the Outlands
+
+## Primary Web Properties
+* outlands.org
+* portal.outlands.org
+
+## Office Web Properties
+Arts & Sciences
+* moas.outlands.org
+* roiu.outlands.org
+
+Herald
+* outlandsheralds.org
+* scribes.outlands.org
+
+## Event Web Properties
+* battlemore.org
+* events.outlands.org
+
+## Other
+* chivalry.outlands.org
+
+
+
+
